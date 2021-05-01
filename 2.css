@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    font-family:serif;
+    text-align: center;
+    width: 100%;
+}
+.first{
+    background:#EAF6F6;
+}
+.sarawa{
+    position: relative;
+    left: 300px;
+    margin-top: 20px;
+    
+}
+.xwarawa{
+    position: relative;
+right: 150px;
+    bottom: 250px;
+}
+.shax{
+    width: 350px;
+    height: 250px;
+    position: relative;
+right: 100px;
+}
+h1{
+    font-family: 'sacramento',cursive;
+    font-size: 5rem;
+    color: #66BFBF;
+}
+.pro{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2rem;
+    font-weight: 100;
+    color: #66BFBF;
+}
+.me{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.h{
+    color: #66BFBF;
+    font-size: 3rem;
+    font-family: sans-serif;
+
+}
+.pesh{
+    font-size: large;
+    color: #40514E;
+    font-weight: bold;
+    
+}
+hr{
+    border: dotted#EAF6F6 6px;
+    width: 4%;
+    border-bottom: none;
+    margin: 100px auto;
+}
+.skil{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF; 
+}
+.eshara{
+    width: 10%;
+    float:left;
+border-radius: 50%;
+position: relative;
+    left: 430px;
+    bottom: 30px;
+}
+.chili{
+    width: 10%;
+    float: right;
+    border-radius: 50%;
+    position: relative;
+    bottom: 50px;
+    right:350px;
+
+}
+.button{
+    background-color: #66BFBF;
+    border: none;
+    display: inline-block;
+    color:white;
+    text-align: center;
+    padding: 15px 32px;
+    font-size: 14px;
+    margin: 10px 2px ;
+}
+footer{
+    background: #66BFBF;
+    width: 100%;
+    height: 50px;
+
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    margin-top:20px;
+}
+.last{
+    color: #EAF6F6;
+}
+.sk{
+    position: relative;
+    right: 150px;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF; 
+}
+.oi{
+font-size: 17px;
+}
